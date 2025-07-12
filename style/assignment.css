@@ -134,7 +134,7 @@ nav li a button{
 /* users say */
 .love-containar{
   padding: 10px;
-  box-shadow: 0px 5px 50px 0px black;  
+  box-shadow: 0px 5px 50px 0px #ccc; 
 }
 .users-say{
   padding: 30px;
